@@ -112,6 +112,9 @@
     text-align: left;
     color: #000000;
 }
+.logo-img{
+    cursor: pointer;
+}
 
 .sec-para {
     font-family: 'Poppins', sans-serif;
@@ -410,6 +413,7 @@
     font-weight: 700;
     line-height: 72px;
     text-align: left;
+    
     color: #000;
 }
 
